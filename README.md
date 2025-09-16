@@ -1,2 +1,2 @@
 # tripwire-rb
-Meshtastic PaxCounter Tripwire MQTT Broker
+Meshtastic PaxCounter MQTT Broker implemented in Ruby. It is a direct port of a Python implementation at https://github.com/OutandBack/mac-tripwire-meshtastic.
